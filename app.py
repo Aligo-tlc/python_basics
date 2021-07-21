@@ -1,3 +1,3 @@
 #My first program using python
-print('Hello')
+print('Hello World')
 print("Our first example")
